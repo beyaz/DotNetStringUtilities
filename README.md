@@ -1,2 +1,1 @@
 # DotNetStringUtilities
- .Net String Utilities
