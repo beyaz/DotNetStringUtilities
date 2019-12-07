@@ -1,0 +1,2 @@
+# DotNetStringUtilities
+ .Net String Utilities
