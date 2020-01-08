@@ -6,7 +6,7 @@ using System.Text;
 namespace DotNetStringUtilities
 {
     /// <summary>
-    ///     The padded string builder
+    ///     The padded string builder.
     /// </summary>
     public class PaddedStringBuilder
     {
