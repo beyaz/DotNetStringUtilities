@@ -1,2 +1,2 @@
-.Net String Utility methods like "".HasValue() or "".IsNullOrEmpty()
+.Net String Utility methods like "".HasValue(), .RemoveFromEnd or "".IsNullOrEmpty()
 
