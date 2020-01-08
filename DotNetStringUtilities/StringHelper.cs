@@ -75,7 +75,7 @@ namespace DotNetStringUtilities
                 return null;
             }
 
-            return data.Replace(value, "");
+            return data.Replace(value, string.Empty);
         }
 
         /// <summary>
